@@ -8,7 +8,7 @@ Install dependencies
 
 Run locally
 
-    python manager.py runserver_plus --nopin
+    python manage.py runserver_plus --nopin
 
 
 # Testing
