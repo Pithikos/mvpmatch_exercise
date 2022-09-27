@@ -1,0 +1,8 @@
+djangorestframework==3.14.0
+rest-framework-roles==0.4.1
+
+# Dev
+pytest-django
+Werkzeug==2.2.2
+django-extensions==3.2.1
+ipython
